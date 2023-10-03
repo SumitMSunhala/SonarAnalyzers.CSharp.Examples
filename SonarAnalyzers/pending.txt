@@ -1,0 +1,5 @@
+#S106
+https://rules.sonarsource.com/csharp/RSPEC-106/
+Standard outputs should not be used directly to log anything
+This not works on console applications
+
